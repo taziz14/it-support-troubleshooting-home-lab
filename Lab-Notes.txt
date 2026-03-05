@@ -1,0 +1,43 @@
+IT Support Troubleshooting Home Lab
+
+Objective
+The purpose of this lab was to simulate common IT support troubleshooting scenarios using a Windows virtual machine environment.
+
+Environment
+A Windows virtual machine was used to replicate a typical workstation environment where IT support technicians diagnose and resolve technical issues.
+
+Troubleshooting Scenario 1 – Network Issue
+
+Problem:
+The system was unable to connect to the network.
+
+Diagnosis:
+Network diagnostics were performed using ipconfig and ping commands. The network configuration was reviewed through Windows network settings.
+
+Solution:
+The network configuration was corrected and connectivity was restored. Successful ping tests confirmed that the system was properly connected.
+
+Troubleshooting Scenario 2 – System Diagnostics
+
+Problem:
+The system required investigation of performance and configuration.
+
+Diagnosis:
+System diagnostic tools including Task Manager and System Information were used to analyze running processes and system resources.
+
+Solution:
+The diagnostic tools allowed identification of system processes and configuration details.
+
+Troubleshooting Scenario 3 – User Account Investigation
+
+Problem:
+User account configuration and permissions needed verification.
+
+Diagnosis:
+User account settings were reviewed through Windows account management tools.
+
+Solution:
+The user account configuration was verified and updated to ensure proper system access.
+
+Conclusion
+The lab demonstrated the troubleshooting workflow used by IT support professionals to diagnose and resolve system and network related issues.
